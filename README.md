@@ -55,7 +55,7 @@ Open that link to use the web interface.
 
 How It Works
 Login: Enter your credentials
-(Naveena@gmail.com / 1234 or Harishma@gmail.com / 5678)
+
 
 Upload Files: PDF, TXT, or CSV files containing academic papers.
 
